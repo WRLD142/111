@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>晨光阅读会 · Morning Reading Club</title>
+<style>
+.page {
+display: inline-block;
+background-color: #FFA54C;
+box-shadow: 0 0 30px rgba(80, 58, 35, 0.25);
+text-align: left;
+max-width: 720px;
+}
+div table a {
+	color: #224488;
+	text-decoration: underline;
+}
+a:link{
+	color:#004499;
+}
+a:visited{
+	color:#662266;
+}
+a:hover{
+	color:#ff3333;
+}
+a:active{
+	color:#00aa00;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Microsoft Yahei",sans-serif;
+}
+p#intro{
+	font-size:20px;
+	font-weight:bold;
+	color:#c82423;
+}
+shtur{
+	color:#dd2222;
+	font-weight:bold;
+}
+shturl{
+	color:#2255bb;
+	font-weight:bold;
+}
+p::first-letter{
+	font-size:24px;
+	font-weight:bold;
+}
+div::first-line{
+	font-style:italic;
+}
+</style>
+</head>
+<body>
+<div class="page">
+	<div>
+		<h1>晨光阅读会 · Morning Reading Club</h1>
+	</div>
+	<div>
+		<h2 id="intro">活动介绍</h2>
+		<p>清晨的阳光透过窗棂洒在书页上，安静的空间里只有翻书的轻响，这是属于阅读爱好者的温柔时刻。我们希望召集热爱文字的伙伴，在日出时分一起共读好书，分享感悟，远离浮躁。</p>
+		<p>本次晨光阅读会选择散文、短诗作为共读内容，不设置复杂任务，大家可以自由朗读、轻声交流，在晨光里感受文字带来的治愈力量。</p>
+		<p id="intro">重要提示：活动早上7:00准时开始，请提前10分钟到场，自带水杯，保持场地安静。</p>
+	</div>
+	<div>
+		<h3>活动报名信息</h3>
+		<table border="1" cellpadding="6">
+			<tr>
+				<th>序号</th>
+				<th>姓名</th>
+				<th>意向读物</th>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>Lily</td>
+				<td>散文选集</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>小楠</td>
+				<td>现代短诗</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>阿泽</td>
+				<td>随笔集</td>
+			</tr>
+		</table>
+	</div>
+	<div>
+		<div>
+			<a class="red" href="https://hongchenwusdnu.github.io/bookstore/job4.html">查看往期活动照片</a>
+			<br>
+			<a class="blue" href="job3.html">在线咨询活动详情</a>
+		</div>
+	</div>
+	<div class="notice">
+		<p>公告1：本次活动免费参与，人数上限15人，报满即止。<br></p>
+		<p>公告2：活动地点：校园图书馆一楼休闲阅读区。<br></p>
+		<p>公告3：如遇雨天，活动地点调整到图书馆多功能厅。<br></p>
+	</div>
+</div>
+</body>
+</html>
